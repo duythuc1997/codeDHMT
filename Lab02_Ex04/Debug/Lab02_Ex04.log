@@ -1,0 +1,4 @@
+﻿  Lab02_Ex04.cpp
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex04\lab02_ex04.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab02_Ex04.vcxproj -> E:\DHMT\BT_Lab02\Lab02_Ex01\Debug\Lab02_Ex04.exe
+  Lab02_Ex04.vcxproj -> E:\DHMT\BT_Lab02\Lab02_Ex01\Debug\Lab02_Ex04.pdb (Full PDB)

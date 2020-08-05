@@ -1,0 +1,12 @@
+﻿  Lab02_Ex03.cpp
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(170): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(171): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(177): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(178): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(184): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(186): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\dhmt\bt_lab02\lab02_ex01\lab02_ex03\lab02_ex03.cpp(187): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lab02_Ex03.vcxproj -> E:\DHMT\BT_Lab02\Lab02_Ex01\Debug\Lab02_Ex03.exe
+  Lab02_Ex03.vcxproj -> E:\DHMT\BT_Lab02\Lab02_Ex01\Debug\Lab02_Ex03.pdb (Full PDB)
